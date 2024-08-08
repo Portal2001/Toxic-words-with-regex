@@ -1,218 +1,275 @@
 (?i)\b[a@]+[\W\d_]*[b8]+[\W\d_]*r+[\W\d_]*u+[\W\d_]*[t7+]+[\W\d_]*[i1!|]+[\W\d_]*\b # abruti
 (?i)\b[a@]+[\W\d_]*[b8]+[\W\d_]*r+[\W\d_]*u+[\W\d_]*[t7+]+[\W\d_]*[i1!|]+[\W\d_]*[eE3]+[\W\d_]*\b # abrutie
-(?i)\b[a@]+[\W\d_]*[b8]+[\W\d_]*r+[\W\d_]*u+[\W\d_]*[t7+]+[\W\d_]*[i1!|]+[\W\d_]*[sS$5]+[\W\d_]*\b # abrutis
 (?i)\b[a@]+[\W\d_]*[b8]+[\W\d_]*r+[\W\d_]*u+[\W\d_]*[t7+]+[\W\d_]*[i1!|]+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # abruties
 (?i)\b[a@]+[\W\d_]*[b8]+[\W\d_]*r+[\W\d_]*u+[\W\d_]*[t7+]+[\W\d_]*[i1!|]+[\W\d_]*r+[\W\d_]*\b # abrutir
+(?i)\b[a@]+[\W\d_]*[b8]+[\W\d_]*r+[\W\d_]*u+[\W\d_]*[t7+]+[\W\d_]*[i1!|]+[\W\d_]*[sS$5]+[\W\d_]*\b # abrutis
 (?i)\b[a@]+[\W\d_]*[b8]+[\W\d_]*r+[\W\d_]*u+[\W\d_]*[t7+]+[\W\d_]*[i1!|]+[\W\d_]*[sS$5]+[\W\d_]*[sS$5]+[\W\d_]*[eE3]+[\W\d_]*m+[\W\d_]*[eE3]+[\W\d_]*n+[\W\d_]*[t7+]+[\W\d_]*\b # abrutissement
 (?i)\b[a@]+[\W\d_]*n+[\W\d_]*[dD]+[\W\d_]*[o0]+[\W\d_]*u+[\W\d_]*[i1!|]+[\W\d_]*[l1|]+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*\b # andouille
 (?i)\b[a@]+[\W\d_]*n+[\W\d_]*[dD]+[\W\d_]*[o0]+[\W\d_]*u+[\W\d_]*[i1!|]+[\W\d_]*[l1|]+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # andouilles
+(?i)\b[b8]+[\W\d_]*[a@]+[\W\d_]*[i1!|]+[\W\d_]*[sS$5]+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*\b # baiser
 (?i)\b[b8]+[\W\d_]*[a@]+[\W\d_]*[l1|]+[\W\d_]*[t7+]+[\W\d_]*r+[\W\d_]*[i1!|]+[\W\d_]*n+[\W\d_]*[gG6]+[\W\d_]*u+[\W\d_]*[eE3]+[\W\d_]*\b # baltringue
 (?i)\b[b8]+[\W\d_]*[a@]+[\W\d_]*[l1|]+[\W\d_]*[t7+]+[\W\d_]*r+[\W\d_]*[i1!|]+[\W\d_]*n+[\W\d_]*[gG6]+[\W\d_]*u+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # baltringues
-(?i)\b[b8]+[\W\d_]*Ã+[\W\d_]*¢+[\W\d_]*[t7+]+[\W\d_]*[a@]+[\W\d_]*r+[\W\d_]*[dD]+[\W\d_]*\b # bÃ¢tard
+(?i)\b[b8]+[\W\d_]*[a@]+[\W\d_]*n+[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*\b # bander
 (?i)\b[b8]+[\W\d_]*[a@]+[\W\d_]*[t7+]+[\W\d_]*[a@]+[\W\d_]*r+[\W\d_]*[dD]+[\W\d_]*\b # batard
-(?i)\b[b8]+[\W\d_]*Ã+[\W\d_]*¢+[\W\d_]*[t7+]+[\W\d_]*[a@]+[\W\d_]*r+[\W\d_]*[dD]+[\W\d_]*[sS$5]+[\W\d_]*\b # bÃ¢tards
 (?i)\b[b8]+[\W\d_]*[a@]+[\W\d_]*[t7+]+[\W\d_]*[a@]+[\W\d_]*r+[\W\d_]*[dD]+[\W\d_]*[sS$5]+[\W\d_]*\b # batards
+(?i)\b[b8]+[\W\d_]*[i1!|]+[\W\d_]*[gG6]+[\W\d_]*[o0]+[\W\d_]*r+[\W\d_]*n+[\W\d_]*[eE3]+[\W\d_]*[t7+]+[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*\b # bigornette
+(?i)\b[b8]+[\W\d_]*[i1!|]+[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*\b # bite
+(?i)\b[b8]+[\W\d_]*[i1!|]+[\W\d_]*[t7+]+[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*\b # bitte
+(?i)\b[b8]+[\W\d_]*[l1|]+[\W\d_]*[o0]+[\W\d_]*[b8]+[\W\d_]*[l1|]+[\W\d_]*[o0]+[\W\d_]*[sS$5]+[\W\d_]*\b # bloblos
+(?i)\b[b8]+[\W\d_]*[o0]+[\W\d_]*r+[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*[l1|]+[\W\d_]*\b # bordel
 (?i)\b[b8]+[\W\d_]*[o0]+[\W\d_]*u+[\W\d_]*[fF]+[\W\d_]*[fF]+[\W\d_]*[o0]+[\W\d_]*n+[\W\d_]*\b # bouffon
 (?i)\b[b8]+[\W\d_]*[o0]+[\W\d_]*u+[\W\d_]*[fF]+[\W\d_]*[fF]+[\W\d_]*[o0]+[\W\d_]*n+[\W\d_]*n+[\W\d_]*[eE3]+[\W\d_]*\b # bouffonne
-(?i)\b[b8]+[\W\d_]*[o0]+[\W\d_]*u+[\W\d_]*[fF]+[\W\d_]*[fF]+[\W\d_]*[o0]+[\W\d_]*n+[\W\d_]*[sS$5]+[\W\d_]*\b # bouffons
-(?i)\b[b8]+[\W\d_]*[o0]+[\W\d_]*u+[\W\d_]*[fF]+[\W\d_]*[fF]+[\W\d_]*[o0]+[\W\d_]*n+[\W\d_]*n+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # bouffonnes
 (?i)\b[b8]+[\W\d_]*[o0]+[\W\d_]*u+[\W\d_]*[fF]+[\W\d_]*[fF]+[\W\d_]*[o0]+[\W\d_]*n+[\W\d_]*n+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*[i1!|]+[\W\d_]*[eE3]+[\W\d_]*\b # bouffonnerie
+(?i)\b[b8]+[\W\d_]*[o0]+[\W\d_]*u+[\W\d_]*[fF]+[\W\d_]*[fF]+[\W\d_]*[o0]+[\W\d_]*n+[\W\d_]*n+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # bouffonnes
+(?i)\b[b8]+[\W\d_]*[o0]+[\W\d_]*u+[\W\d_]*[fF]+[\W\d_]*[fF]+[\W\d_]*[o0]+[\W\d_]*n+[\W\d_]*[sS$5]+[\W\d_]*\b # bouffons
+(?i)\b[b8]+[\W\d_]*[o0]+[\W\d_]*u+[\W\d_]*r+[\W\d_]*r+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*\b # bourrÃ©
+(?i)\b[b8]+[\W\d_]*[o0]+[\W\d_]*u+[\W\d_]*r+[\W\d_]*r+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*[eE3]+[\W\d_]*\b # bourrÃ©e
+(?i)\b[b8]+[\W\d_]*r+[\W\d_]*[a@]+[\W\d_]*[cC(]+[\W\d_]*k+[\W\d_]*m+[\W\d_]*[a@]+[\W\d_]*r+[\W\d_]*[dD]+[\W\d_]*\b # brackmard
+(?i)\b[b8]+[\W\d_]*r+[\W\d_]*[a@]+[\W\d_]*n+[\W\d_]*[l1|]+[\W\d_]*[a@]+[\W\d_]*[gG6]+[\W\d_]*[eE3]+[\W\d_]*\b # branlage
+(?i)\b[b8]+[\W\d_]*r+[\W\d_]*[a@]+[\W\d_]*n+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*\b # branler
+(?i)\b[b8]+[\W\d_]*r+[\W\d_]*[a@]+[\W\d_]*n+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*[t7+]+[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*\b # branlette
+(?i)\b[b8]+[\W\d_]*r+[\W\d_]*[a@]+[\W\d_]*n+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*u+[\W\d_]*r+[\W\d_]*\b # branleur
+(?i)\b[b8]+[\W\d_]*r+[\W\d_]*[a@]+[\W\d_]*n+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*u+[\W\d_]*[sS$5]+[\W\d_]*[eE3]+[\W\d_]*\b # branleuse
+(?i)\b[b8]+[\W\d_]*r+[\W\d_]*[o0]+[\W\d_]*u+[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*\ +[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*[cC(]+[\W\d_]*r+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*[sS$5]+[\W\d_]*[o0]+[\W\d_]*n+[\W\d_]*\b # brouter le cresson
+(?i)\b[b8]+[\W\d_]*Ã+[\W\d_]*¢+[\W\d_]*[t7+]+[\W\d_]*[a@]+[\W\d_]*r+[\W\d_]*[dD]+[\W\d_]*\b # bÃ¢tard
+(?i)\b[b8]+[\W\d_]*Ã+[\W\d_]*¢+[\W\d_]*[t7+]+[\W\d_]*[a@]+[\W\d_]*r+[\W\d_]*[dD]+[\W\d_]*[sS$5]+[\W\d_]*\b # bÃ¢tards
+(?i)\b[cC(]+[\W\d_]*[a@]+[\W\d_]*[cC(]+[\W\d_]*[a@]+[\W\d_]*\b # caca
+(?i)\b[cC(]+[\W\d_]*[a@]+[\W\d_]*[sS$5]+[\W\d_]*[sS$5]+[\W\d_]*\-+[\W\d_]*[t7+]+[\W\d_]*[o0]+[\W\d_]*[i1!|]+[\W\d_]*\b # cass-toi
+(?i)\b[cC(]+[\W\d_]*[a@]+[\W\d_]*[sS$5]+[\W\d_]*[sS$5]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*[cC(]+[\W\d_]*[o0]+[\W\d_]*u+[\W\d_]*[i1!|]+[\W\d_]*[l1|]+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*\b # casse couille
+(?i)\b[cC(]+[\W\d_]*[a@]+[\W\d_]*[sS$5]+[\W\d_]*[sS$5]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*[cC(]+[\W\d_]*[o0]+[\W\d_]*u+[\W\d_]*[i1!|]+[\W\d_]*[l1|]+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # casse couilles
+(?i)\b[cC(]+[\W\d_]*[a@]+[\W\d_]*[sS$5]+[\W\d_]*[sS$5]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*[t7+]+[\W\d_]*[o0]+[\W\d_]*[i1!|]+[\W\d_]*\b # casse toi
+(?i)\b[cC(]+[\W\d_]*[a@]+[\W\d_]*[sS$5]+[\W\d_]*[sS$5]+[\W\d_]*[eE3]+[\W\d_]*\-+[\W\d_]*[cC(]+[\W\d_]*[o0]+[\W\d_]*u+[\W\d_]*[i1!|]+[\W\d_]*[l1|]+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*\b # casse-couille
+(?i)\b[cC(]+[\W\d_]*[a@]+[\W\d_]*[sS$5]+[\W\d_]*[sS$5]+[\W\d_]*[eE3]+[\W\d_]*\-+[\W\d_]*[cC(]+[\W\d_]*[o0]+[\W\d_]*u+[\W\d_]*[i1!|]+[\W\d_]*[l1|]+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # casse-couilles
+(?i)\b[cC(]+[\W\d_]*[a@]+[\W\d_]*[sS$5]+[\W\d_]*[sS$5]+[\W\d_]*[eE3]+[\W\d_]*\-+[\W\d_]*[t7+]+[\W\d_]*[o0]+[\W\d_]*[i1!|]+[\W\d_]*\b # casse-toi
+(?i)\b[cC(]+[\W\d_]*[a@]+[\W\d_]*[sS$5]+[\W\d_]*[sS$5]+[\W\d_]*[t7+]+[\W\d_]*[o0]+[\W\d_]*[a@]+[\W\d_]*\b # casstoa
+(?i)\b[cC(]+[\W\d_]*[hH#]+[\W\d_]*[a@]+[\W\d_]*[t7+]+[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*\b # chatte
+(?i)\b[cC(]+[\W\d_]*[hH#]+[\W\d_]*[i1!|]+[\W\d_]*[a@]+[\W\d_]*[sS$5]+[\W\d_]*[sS$5]+[\W\d_]*[eE3]+[\W\d_]*\b # chiasse
+(?i)\b[cC(]+[\W\d_]*[hH#]+[\W\d_]*[i1!|]+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*\b # chier
+(?i)\b[cC(]+[\W\d_]*[hH#]+[\W\d_]*[i1!|]+[\W\d_]*[o0]+[\W\d_]*[t7+]+[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # chiottes
+(?i)\b[cC(]+[\W\d_]*[l1|]+[\W\d_]*[i1!|]+[\W\d_]*[t7+]+[\W\d_]*[o0]+[\W\d_]*\b # clito
+(?i)\b[cC(]+[\W\d_]*[l1|]+[\W\d_]*[i1!|]+[\W\d_]*[t7+]+[\W\d_]*[o0]+[\W\d_]*r+[\W\d_]*[i1!|]+[\W\d_]*[sS$5]+[\W\d_]*\b # clitoris
 (?i)\b[cC(]+[\W\d_]*[o0]+[\W\d_]*n+[\W\d_]*\b # con
+(?i)\b[cC(]+[\W\d_]*[o0]+[\W\d_]*n+[\W\d_]*n+[\W\d_]*[a@]+[\W\d_]*r+[\W\d_]*\b # connar
 (?i)\b[cC(]+[\W\d_]*[o0]+[\W\d_]*n+[\W\d_]*n+[\W\d_]*[a@]+[\W\d_]*r+[\W\d_]*[dD]+[\W\d_]*\b # connard
+(?i)\b[cC(]+[\W\d_]*[o0]+[\W\d_]*n+[\W\d_]*n+[\W\d_]*[a@]+[\W\d_]*r+[\W\d_]*[dD]+[\W\d_]*\ +[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*m+[\W\d_]*\b # connard de m
+(?i)\b[cC(]+[\W\d_]*[o0]+[\W\d_]*n+[\W\d_]*n+[\W\d_]*[a@]+[\W\d_]*r+[\W\d_]*[dD]+[\W\d_]*\ +[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*m+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*\b # connard de merde
 (?i)\b[cC(]+[\W\d_]*[o0]+[\W\d_]*n+[\W\d_]*n+[\W\d_]*[a@]+[\W\d_]*r+[\W\d_]*[dD]+[\W\d_]*[sS$5]+[\W\d_]*\b # connards
+(?i)\b[cC(]+[\W\d_]*[o0]+[\W\d_]*n+[\W\d_]*n+[\W\d_]*[a@]+[\W\d_]*r+[\W\d_]*[dD]+[\W\d_]*[sS$5]+[\W\d_]*\ +[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*m+[\W\d_]*\b # connards de m
+(?i)\b[cC(]+[\W\d_]*[o0]+[\W\d_]*n+[\W\d_]*n+[\W\d_]*[a@]+[\W\d_]*r+[\W\d_]*[dD]+[\W\d_]*[sS$5]+[\W\d_]*\ +[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*m+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*\b # connards de merde
+(?i)\b[cC(]+[\W\d_]*[o0]+[\W\d_]*n+[\W\d_]*n+[\W\d_]*[a@]+[\W\d_]*r+[\W\d_]*[eE3]+[\W\d_]*\b # connare
+(?i)\b[cC(]+[\W\d_]*[o0]+[\W\d_]*n+[\W\d_]*n+[\W\d_]*[a@]+[\W\d_]*r+[\W\d_]*r+[\W\d_]*[eE3]+[\W\d_]*\b # connarre
+(?i)\b[cC(]+[\W\d_]*[o0]+[\W\d_]*n+[\W\d_]*n+[\W\d_]*[a@]+[\W\d_]*r+[\W\d_]*r+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # connarres
 (?i)\b[cC(]+[\W\d_]*[o0]+[\W\d_]*n+[\W\d_]*n+[\W\d_]*[a@]+[\W\d_]*[sS$5]+[\W\d_]*[sS$5]+[\W\d_]*[eE3]+[\W\d_]*\b # connasse
 (?i)\b[cC(]+[\W\d_]*[o0]+[\W\d_]*n+[\W\d_]*n+[\W\d_]*[a@]+[\W\d_]*[sS$5]+[\W\d_]*[sS$5]+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # connasses
 (?i)\b[cC(]+[\W\d_]*[o0]+[\W\d_]*n+[\W\d_]*n+[\W\d_]*[eE3]+[\W\d_]*\b # conne
-(?i)\b[cC(]+[\W\d_]*[o0]+[\W\d_]*n+[\W\d_]*n+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # connes
 (?i)\b[cC(]+[\W\d_]*[o0]+[\W\d_]*n+[\W\d_]*n+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*[i1!|]+[\W\d_]*[eE3]+[\W\d_]*\b # connerie
 (?i)\b[cC(]+[\W\d_]*[o0]+[\W\d_]*n+[\W\d_]*n+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*[i1!|]+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # conneries
-(?i)\b[cC(]+[\W\d_]*r+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*[t7+]+[\W\d_]*[i1!|]+[\W\d_]*n+[\W\d_]*\b # crÃ©tin
+(?i)\b[cC(]+[\W\d_]*[o0]+[\W\d_]*n+[\W\d_]*n+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # connes
+(?i)\b[cC(]+[\W\d_]*[o0]+[\W\d_]*u+[\W\d_]*[i1!|]+[\W\d_]*[l1|]+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # couilles
+(?i)\b[cC(]+[\W\d_]*r+[\W\d_]*[a@]+[\W\d_]*m+[\W\d_]*[o0]+[\W\d_]*u+[\W\d_]*[i1!|]+[\W\d_]*[l1|]+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*\b # cramouille
 (?i)\b[cC(]+[\W\d_]*r+[\W\d_]*[eE3]+[\W\d_]*[t7+]+[\W\d_]*[i1!|]+[\W\d_]*n+[\W\d_]*\b # cretin
-(?i)\b[cC(]+[\W\d_]*r+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*[t7+]+[\W\d_]*[i1!|]+[\W\d_]*n+[\W\d_]*[sS$5]+[\W\d_]*\b # crÃ©tins
-(?i)\b[cC(]+[\W\d_]*r+[\W\d_]*[eE3]+[\W\d_]*[t7+]+[\W\d_]*[i1!|]+[\W\d_]*n+[\W\d_]*[sS$5]+[\W\d_]*\b # cretins
-(?i)\b[cC(]+[\W\d_]*r+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*[t7+]+[\W\d_]*[i1!|]+[\W\d_]*n+[\W\d_]*[eE3]+[\W\d_]*\b # crÃ©tine
 (?i)\b[cC(]+[\W\d_]*r+[\W\d_]*[eE3]+[\W\d_]*[t7+]+[\W\d_]*[i1!|]+[\W\d_]*n+[\W\d_]*[eE3]+[\W\d_]*\b # cretine
-(?i)\b[cC(]+[\W\d_]*r+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*[t7+]+[\W\d_]*[i1!|]+[\W\d_]*n+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # crÃ©tines
-(?i)\b[cC(]+[\W\d_]*r+[\W\d_]*[eE3]+[\W\d_]*[t7+]+[\W\d_]*[i1!|]+[\W\d_]*n+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # cretines
-(?i)\b[cC(]+[\W\d_]*r+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*[t7+]+[\W\d_]*[i1!|]+[\W\d_]*n+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*[i1!|]+[\W\d_]*[eE3]+[\W\d_]*\b # crÃ©tinerie
 (?i)\b[cC(]+[\W\d_]*r+[\W\d_]*[eE3]+[\W\d_]*[t7+]+[\W\d_]*[i1!|]+[\W\d_]*n+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*[i1!|]+[\W\d_]*[eE3]+[\W\d_]*\b # cretinerie
-(?i)\b[dD]+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*[b8]+[\W\d_]*[i1!|]+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*\b # dÃ©bile
+(?i)\b[cC(]+[\W\d_]*r+[\W\d_]*[eE3]+[\W\d_]*[t7+]+[\W\d_]*[i1!|]+[\W\d_]*n+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # cretines
+(?i)\b[cC(]+[\W\d_]*r+[\W\d_]*[eE3]+[\W\d_]*[t7+]+[\W\d_]*[i1!|]+[\W\d_]*n+[\W\d_]*[sS$5]+[\W\d_]*\b # cretins
+(?i)\b[cC(]+[\W\d_]*r+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*[t7+]+[\W\d_]*[i1!|]+[\W\d_]*n+[\W\d_]*\b # crÃ©tin
+(?i)\b[cC(]+[\W\d_]*r+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*[t7+]+[\W\d_]*[i1!|]+[\W\d_]*n+[\W\d_]*[eE3]+[\W\d_]*\b # crÃ©tine
+(?i)\b[cC(]+[\W\d_]*r+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*[t7+]+[\W\d_]*[i1!|]+[\W\d_]*n+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*[i1!|]+[\W\d_]*[eE3]+[\W\d_]*\b # crÃ©tinerie
+(?i)\b[cC(]+[\W\d_]*r+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*[t7+]+[\W\d_]*[i1!|]+[\W\d_]*n+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # crÃ©tines
+(?i)\b[cC(]+[\W\d_]*r+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*[t7+]+[\W\d_]*[i1!|]+[\W\d_]*n+[\W\d_]*[sS$5]+[\W\d_]*\b # crÃ©tins
+(?i)\b[cC(]+[\W\d_]*u+[\W\d_]*[l1|]+[\W\d_]*\b # cul
 (?i)\b[dD]+[\W\d_]*[eE3]+[\W\d_]*[b8]+[\W\d_]*[i1!|]+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*\b # debile
-(?i)\b[dD]+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*[b8]+[\W\d_]*[i1!|]+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # dÃ©biles
-(?i)\b[dD]+[\W\d_]*[eE3]+[\W\d_]*[b8]+[\W\d_]*[i1!|]+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # debiles
-(?i)\b[dD]+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*[b8]+[\W\d_]*[i1!|]+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*[i1!|]+[\W\d_]*[eE3]+[\W\d_]*\b # dÃ©bilerie
 (?i)\b[dD]+[\W\d_]*[eE3]+[\W\d_]*[b8]+[\W\d_]*[i1!|]+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*[i1!|]+[\W\d_]*[eE3]+[\W\d_]*\b # debilerie
-(?i)\b[dD]+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*[gG6]+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*n+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*r+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*\b # dÃ©gÃ©nÃ©rÃ©
+(?i)\b[dD]+[\W\d_]*[eE3]+[\W\d_]*[b8]+[\W\d_]*[i1!|]+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # debiles
 (?i)\b[dD]+[\W\d_]*[eE3]+[\W\d_]*[gG6]+[\W\d_]*[eE3]+[\W\d_]*n+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*\b # degenerÃ©
-(?i)\b[dD]+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*[gG6]+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*n+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*r+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*[eE3]+[\W\d_]*\b # dÃ©gÃ©nÃ©rÃ©e
 (?i)\b[dD]+[\W\d_]*[eE3]+[\W\d_]*[gG6]+[\W\d_]*[eE3]+[\W\d_]*n+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*[eE3]+[\W\d_]*\b # degenerÃ©e
-(?i)\b[dD]+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*[gG6]+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*n+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*r+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*[sS$5]+[\W\d_]*\b # dÃ©gÃ©nÃ©rÃ©s
-(?i)\b[dD]+[\W\d_]*[eE3]+[\W\d_]*[gG6]+[\W\d_]*[eE3]+[\W\d_]*n+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*[sS$5]+[\W\d_]*\b # degenerÃ©s
-(?i)\b[dD]+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*[gG6]+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*n+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*r+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # dÃ©gÃ©nÃ©rÃ©es
 (?i)\b[dD]+[\W\d_]*[eE3]+[\W\d_]*[gG6]+[\W\d_]*[eE3]+[\W\d_]*n+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # degenerÃ©es
+(?i)\b[dD]+[\W\d_]*[eE3]+[\W\d_]*[gG6]+[\W\d_]*[eE3]+[\W\d_]*n+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*[sS$5]+[\W\d_]*\b # degenerÃ©s
 (?i)\b[dD]+[\W\d_]*u+[\W\d_]*[cC(]+[\W\d_]*[o0]+[\W\d_]*n+[\W\d_]*\b # ducon
 (?i)\b[dD]+[\W\d_]*u+[\W\d_]*[cC(]+[\W\d_]*u+[\W\d_]*n+[\W\d_]*\b # ducun
-(?i)\b[eE3]+[\W\d_]*n+[\W\d_]*[cC(]+[\W\d_]*u+[\W\d_]*[l1|]+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*\b # enculÃ©
+(?i)\b[dD]+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*[b8]+[\W\d_]*[i1!|]+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*\b # dÃ©bile
+(?i)\b[dD]+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*[b8]+[\W\d_]*[i1!|]+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*[i1!|]+[\W\d_]*[eE3]+[\W\d_]*\b # dÃ©bilerie
+(?i)\b[dD]+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*[b8]+[\W\d_]*[i1!|]+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # dÃ©biles
+(?i)\b[dD]+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*[cC(]+[\W\d_]*[o0]+[\W\d_]*n+[\W\d_]*n+[\W\d_]*[eE3]+[\W\d_]*\b # dÃ©conne
+(?i)\b[dD]+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*[cC(]+[\W\d_]*[o0]+[\W\d_]*n+[\W\d_]*n+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*\b # dÃ©conner
+(?i)\b[dD]+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*[gG6]+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*n+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*r+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*\b # dÃ©gÃ©nÃ©rÃ©
+(?i)\b[dD]+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*[gG6]+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*n+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*r+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*[eE3]+[\W\d_]*\b # dÃ©gÃ©nÃ©rÃ©e
+(?i)\b[dD]+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*[gG6]+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*n+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*r+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # dÃ©gÃ©nÃ©rÃ©es
+(?i)\b[dD]+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*[gG6]+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*n+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*r+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*[sS$5]+[\W\d_]*\b # dÃ©gÃ©nÃ©rÃ©s
+(?i)\b[eE3]+[\W\d_]*m+[\W\d_]*m+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*[dD]+[\W\d_]*[a@]+[\W\d_]*n+[\W\d_]*[t7+]+[\W\d_]*\b # emmerdant
+(?i)\b[eE3]+[\W\d_]*m+[\W\d_]*m+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*\b # emmerder
+(?i)\b[eE3]+[\W\d_]*m+[\W\d_]*m+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*u+[\W\d_]*r+[\W\d_]*\b # emmerdeur
+(?i)\b[eE3]+[\W\d_]*m+[\W\d_]*m+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*u+[\W\d_]*[sS$5]+[\W\d_]*[eE3]+[\W\d_]*\b # emmerdeuse
 (?i)\b[eE3]+[\W\d_]*n+[\W\d_]*[cC(]+[\W\d_]*u+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*\b # encule
-(?i)\b[eE3]+[\W\d_]*n+[\W\d_]*[cC(]+[\W\d_]*u+[\W\d_]*[l1|]+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*[sS$5]+[\W\d_]*\b # enculÃ©s
-(?i)\b[eE3]+[\W\d_]*n+[\W\d_]*[cC(]+[\W\d_]*u+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # encules
 (?i)\b[eE3]+[\W\d_]*n+[\W\d_]*[cC(]+[\W\d_]*u+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*\b # enculer
-(?i)\b[eE3]+[\W\d_]*n+[\W\d_]*[cC(]+[\W\d_]*u+[\W\d_]*[l1|]+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*[sS$5]+[\W\d_]*\b # enculÃ©s
+(?i)\b[eE3]+[\W\d_]*n+[\W\d_]*[cC(]+[\W\d_]*u+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # encules
+(?i)\b[eE3]+[\W\d_]*n+[\W\d_]*[cC(]+[\W\d_]*u+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*u+[\W\d_]*r+[\W\d_]*\b # enculeur
+(?i)\b[eE3]+[\W\d_]*n+[\W\d_]*[cC(]+[\W\d_]*u+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*u+[\W\d_]*r+[\W\d_]*[sS$5]+[\W\d_]*\b # enculeurs
+(?i)\b[eE3]+[\W\d_]*n+[\W\d_]*[cC(]+[\W\d_]*u+[\W\d_]*[l1|]+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*\b # enculÃ©
+(?i)\b[eE3]+[\W\d_]*n+[\W\d_]*[cC(]+[\W\d_]*u+[\W\d_]*[l1|]+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*[eE3]+[\W\d_]*\b # enculÃ©e
 (?i)\b[eE3]+[\W\d_]*n+[\W\d_]*[cC(]+[\W\d_]*u+[\W\d_]*[l1|]+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*[sS$5]+[\W\d_]*\b # enculÃ©s
 (?i)\b[eE3]+[\W\d_]*n+[\W\d_]*[fF]+[\W\d_]*[o0]+[\W\d_]*[i1!|]+[\W\d_]*r+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*\b # enfoirÃ©
 (?i)\b[eE3]+[\W\d_]*n+[\W\d_]*[fF]+[\W\d_]*[o0]+[\W\d_]*[i1!|]+[\W\d_]*r+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*[eE3]+[\W\d_]*\b # enfoirÃ©e
-(?i)\b[eE3]+[\W\d_]*n+[\W\d_]*[fF]+[\W\d_]*[o0]+[\W\d_]*[i1!|]+[\W\d_]*r+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*[sS$5]+[\W\d_]*\b # enfoirÃ©s
 (?i)\b[eE3]+[\W\d_]*n+[\W\d_]*[fF]+[\W\d_]*[o0]+[\W\d_]*[i1!|]+[\W\d_]*r+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # enfoirÃ©es
-(?i)\b[fF]+[\W\d_]*[i1!|]+[\W\d_]*[l1|]+[\W\d_]*[sS$5]+[\W\d_]*\ +[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*p+[\W\d_]*u+[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*\b # fils de pute
-(?i)\b[fF]+[\W\d_]*[i1!|]+[\W\d_]*[l1|]+[\W\d_]*[sS$5]+[\W\d_]*\ +[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*p+[\W\d_]*u+[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # fils de putes
-(?i)\b[fF]+[\W\d_]*[i1!|]+[\W\d_]*[l1|]+[\W\d_]*[sS$5]+[\W\d_]*\ +[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*p+[\W\d_]*u+[\W\d_]*[t7+]+[\W\d_]*[a@]+[\W\d_]*[i1!|]+[\W\d_]*n+[\W\d_]*\b # fils de putain
-(?i)\b[fF]+[\W\d_]*[i1!|]+[\W\d_]*[l1|]+[\W\d_]*[sS$5]+[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*p+[\W\d_]*\b # filsdep
-(?i)\b[fF]+[\W\d_]*[i1!|]+[\W\d_]*[l1|]+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*p+[\W\d_]*u+[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*\b # fille de pute
-(?i)\b[fF]+[\W\d_]*[i1!|]+[\W\d_]*[l1|]+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*p+[\W\d_]*u+[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # fille de putes
-(?i)\b[fF]+[\W\d_]*[i1!|]+[\W\d_]*[l1|]+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*p+[\W\d_]*u+[\W\d_]*[t7+]+[\W\d_]*[a@]+[\W\d_]*[i1!|]+[\W\d_]*n+[\W\d_]*\b # fille de putain
-(?i)\b[fF]+[\W\d_]*[i1!|]+[\W\d_]*[l1|]+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*p+[\W\d_]*\b # filledep
-(?i)\b[gG6]+[\W\d_]*[a@]+[\W\d_]*r+[\W\d_]*[cC(]+[\W\d_]*[eE3]+[\W\d_]*\b # garce
-(?i)\b[gG6]+[\W\d_]*[a@]+[\W\d_]*r+[\W\d_]*[cC(]+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # garces
-(?i)\b[gG6]+[\W\d_]*[a@]+[\W\d_]*r+[\W\d_]*[cC(]+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*[i1!|]+[\W\d_]*[eE3]+[\W\d_]*\b # garcerie
-(?i)\b[gG6]+[\W\d_]*[o0]+[\W\d_]*u+[\W\d_]*[i1!|]+[\W\d_]*n+[\W\d_]*[eE3]+[\W\d_]*\b # gouine
-(?i)\b[gG6]+[\W\d_]*[o0]+[\W\d_]*u+[\W\d_]*[i1!|]+[\W\d_]*n+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # gouines
-(?i)\b[gG6]+[\W\d_]*[o0]+[\W\d_]*u+[\W\d_]*[i1!|]+[\W\d_]*n+[\W\d_]*[a@]+[\W\d_]*[sS$5]+[\W\d_]*[sS$5]+[\W\d_]*[eE3]+[\W\d_]*\b # gouinasse
-(?i)\b[gG6]+[\W\d_]*[o0]+[\W\d_]*u+[\W\d_]*[i1!|]+[\W\d_]*n+[\W\d_]*[a@]+[\W\d_]*[sS$5]+[\W\d_]*[sS$5]+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # gouinasses
-(?i)\b[gG6]+[\W\d_]*r+[\W\d_]*[o0]+[\W\d_]*[sS$5]+[\W\d_]*\ +[\W\d_]*[cC(]+[\W\d_]*[o0]+[\W\d_]*n+[\W\d_]*\b # gros con
-(?i)\b[gG6]+[\W\d_]*r+[\W\d_]*[o0]+[\W\d_]*[sS$5]+[\W\d_]*\ +[\W\d_]*[cC(]+[\W\d_]*[o0]+[\W\d_]*n+[\W\d_]*n+[\W\d_]*[a@]+[\W\d_]*r+[\W\d_]*[dD]+[\W\d_]*\b # gros connard
-(?i)\b[gG6]+[\W\d_]*r+[\W\d_]*[o0]+[\W\d_]*[sS$5]+[\W\d_]*\ +[\W\d_]*[cC(]+[\W\d_]*[o0]+[\W\d_]*n+[\W\d_]*n+[\W\d_]*[a@]+[\W\d_]*r+[\W\d_]*[dD]+[\W\d_]*[sS$5]+[\W\d_]*\b # gros connards
-(?i)\b[i1!|]+[\W\d_]*[dD]+[\W\d_]*[i1!|]+[\W\d_]*[o0]+[\W\d_]*[t7+]+[\W\d_]*\b # idiot
-(?i)\b[i1!|]+[\W\d_]*[dD]+[\W\d_]*[i1!|]+[\W\d_]*[o0]+[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*\b # idiote
-(?i)\b[i1!|]+[\W\d_]*[dD]+[\W\d_]*[i1!|]+[\W\d_]*[o0]+[\W\d_]*[t7+]+[\W\d_]*[sS$5]+[\W\d_]*\b # idiots
-(?i)\b[i1!|]+[\W\d_]*[dD]+[\W\d_]*[i1!|]+[\W\d_]*[o0]+[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # idiotes
-(?i)\b[i1!|]+[\W\d_]*[dD]+[\W\d_]*[i1!|]+[\W\d_]*[o0]+[\W\d_]*[t7+]+[\W\d_]*[i1!|]+[\W\d_]*[eE3]+[\W\d_]*\b # idiotie
-(?i)\b[i1!|]+[\W\d_]*[dD]+[\W\d_]*[i1!|]+[\W\d_]*[o0]+[\W\d_]*[t7+]+[\W\d_]*[i1!|]+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # idioties
-(?i)\b[i1!|]+[\W\d_]*m+[\W\d_]*[b8]+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*[cC(]+[\W\d_]*[i1!|]+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*\b # imbÃ©cile
-(?i)\b[i1!|]+[\W\d_]*m+[\W\d_]*[b8]+[\W\d_]*[eE3]+[\W\d_]*[cC(]+[\W\d_]*[i1!|]+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*\b # imbecile
-(?i)\b[i1!|]+[\W\d_]*m+[\W\d_]*[b8]+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*[cC(]+[\W\d_]*[i1!|]+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # imbÃ©ciles
-(?i)\b[i1!|]+[\W\d_]*m+[\W\d_]*[b8]+[\W\d_]*[eE3]+[\W\d_]*[cC(]+[\W\d_]*[i1!|]+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # imbeciles
-(?i)\b[i1!|]+[\W\d_]*m+[\W\d_]*[b8]+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*[cC(]+[\W\d_]*[i1!|]+[\W\d_]*[l1|]+[\W\d_]*[l1|]+[\W\d_]*[i1!|]+[\W\d_]*[t7+]+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*\b # imbÃ©cillitÃ©
-(?i)\b[i1!|]+[\W\d_]*m+[\W\d_]*[b8]+[\W\d_]*[eE3]+[\W\d_]*[cC(]+[\W\d_]*[i1!|]+[\W\d_]*[l1|]+[\W\d_]*[l1|]+[\W\d_]*[i1!|]+[\W\d_]*[t7+]+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*\b # imbecillitÃ©
-(?i)\b[i1!|]+[\W\d_]*m+[\W\d_]*[b8]+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*[cC(]+[\W\d_]*[i1!|]+[\W\d_]*[l1|]+[\W\d_]*[l1|]+[\W\d_]*[i1!|]+[\W\d_]*[t7+]+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*[sS$5]+[\W\d_]*\b # imbÃ©cillitÃ©s
-(?i)\b[i1!|]+[\W\d_]*m+[\W\d_]*[b8]+[\W\d_]*[eE3]+[\W\d_]*[cC(]+[\W\d_]*[i1!|]+[\W\d_]*[l1|]+[\W\d_]*[l1|]+[\W\d_]*[i1!|]+[\W\d_]*[t7+]+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*[sS$5]+[\W\d_]*\b # imbecillitÃ©s
-(?i)\b[l1|]+[\W\d_]*[o0]+[\W\d_]*p+[\W\d_]*[eE3]+[\W\d_]*[t7+]+[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*\b # lopette
-(?i)\b[l1|]+[\W\d_]*[o0]+[\W\d_]*p+[\W\d_]*[eE3]+[\W\d_]*[t7+]+[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # lopettes
-(?i)\bm+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*u+[\W\d_]*x+[\W\d_]*\b # merdeux
-(?i)\bm+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*u+[\W\d_]*[sS$5]+[\W\d_]*[eE3]+[\W\d_]*\b # merdeuse
-(?i)\bm+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*u+[\W\d_]*x+[\W\d_]*\b # merdeux
-(?i)\bm+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*u+[\W\d_]*[sS$5]+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # merdeuses
-(?i)\bm+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*[dD]+[\W\d_]*[i1!|]+[\W\d_]*q+[\W\d_]*u+[\W\d_]*[eE3]+[\W\d_]*\b # merdique
-(?i)\bm+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*[dD]+[\W\d_]*[i1!|]+[\W\d_]*q+[\W\d_]*u+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # merdiques
-(?i)\bm+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*[dD]+[\W\d_]*[i1!|]+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*\b # merdier
-(?i)\bm+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*[dD]+[\W\d_]*[i1!|]+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*[sS$5]+[\W\d_]*\b # merdiers
-(?i)\bn+[\W\d_]*[a@]+[\W\d_]*[z2]+[\W\d_]*[eE3]+[\W\d_]*\b # naze
-(?i)\bn+[\W\d_]*[a@]+[\W\d_]*[z2]+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # nazes
-(?i)\bp+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*[dD]+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*\b # pÃ©dÃ©
-(?i)\bp+[\W\d_]*[eE3]+[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*\b # pede
-(?i)\bp+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*[dD]+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*[sS$5]+[\W\d_]*\b # pÃ©dÃ©s
-(?i)\bp+[\W\d_]*[eE3]+[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # pedes
-(?i)\bp+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*[dD]+[\W\d_]*[a@]+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*\b # pÃ©dale
-(?i)\bp+[\W\d_]*[eE3]+[\W\d_]*[dD]+[\W\d_]*[a@]+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*\b # pedale
-(?i)\bp+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*[dD]+[\W\d_]*[a@]+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # pÃ©dales
-(?i)\bp+[\W\d_]*[eE3]+[\W\d_]*[dD]+[\W\d_]*[a@]+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # pedales
-(?i)\bp+[\W\d_]*u+[\W\d_]*[t7+]+[\W\d_]*[a@]+[\W\d_]*[i1!|]+[\W\d_]*n+[\W\d_]*\b # putain
-(?i)\bp+[\W\d_]*u+[\W\d_]*[t7+]+[\W\d_]*[a@]+[\W\d_]*[i1!|]+[\W\d_]*n+[\W\d_]*[sS$5]+[\W\d_]*\b # putains
-(?i)\bp+[\W\d_]*u+[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # putes
-(?i)\bp+[\W\d_]*u+[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*\b # pute
-(?i)\bp+[\W\d_]*[o0]+[\W\d_]*u+[\W\d_]*[fF]+[\W\d_]*[fF]+[\W\d_]*[i1!|]+[\W\d_]*[a@]+[\W\d_]*[sS$5]+[\W\d_]*[sS$5]+[\W\d_]*[eE3]+[\W\d_]*\b # pouffiasse
-(?i)\bp+[\W\d_]*[o0]+[\W\d_]*u+[\W\d_]*[fF]+[\W\d_]*[fF]+[\W\d_]*[i1!|]+[\W\d_]*[a@]+[\W\d_]*[sS$5]+[\W\d_]*[sS$5]+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # pouffiasses
-(?i)\bp+[\W\d_]*[o0]+[\W\d_]*u+[\W\d_]*[fF]+[\W\d_]*[fF]+[\W\d_]*[i1!|]+[\W\d_]*[a@]+[\W\d_]*[sS$5]+[\W\d_]*[sS$5]+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*[i1!|]+[\W\d_]*[eE3]+[\W\d_]*\b # pouffiasserie
-(?i)\bp+[\W\d_]*[o0]+[\W\d_]*u+[\W\d_]*[fF]+[\W\d_]*[fF]+[\W\d_]*[i1!|]+[\W\d_]*[a@]+[\W\d_]*[sS$5]+[\W\d_]*[sS$5]+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*[i1!|]+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # pouffiasseries
-(?i)\b[sS$5]+[\W\d_]*[a@]+[\W\d_]*[l1|]+[\W\d_]*[a@]+[\W\d_]*u+[\W\d_]*[dD]+[\W\d_]*\b # salaud
-(?i)\b[sS$5]+[\W\d_]*[a@]+[\W\d_]*[l1|]+[\W\d_]*[a@]+[\W\d_]*u+[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*\b # salaude
-(?i)\b[sS$5]+[\W\d_]*[a@]+[\W\d_]*[l1|]+[\W\d_]*[a@]+[\W\d_]*u+[\W\d_]*[dD]+[\W\d_]*[sS$5]+[\W\d_]*\b # salauds
-(?i)\b[sS$5]+[\W\d_]*[a@]+[\W\d_]*[l1|]+[\W\d_]*[a@]+[\W\d_]*u+[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # salaudes
-(?i)\b[sS$5]+[\W\d_]*[a@]+[\W\d_]*[l1|]+[\W\d_]*[a@]+[\W\d_]*u+[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*[i1!|]+[\W\d_]*[eE3]+[\W\d_]*\b # salauderie
-(?i)\b[sS$5]+[\W\d_]*[a@]+[\W\d_]*[l1|]+[\W\d_]*[a@]+[\W\d_]*u+[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*[i1!|]+[\W\d_]*[eE3]+[\W\d_]*\b # salauderie
-(?i)\b[sS$5]+[\W\d_]*[a@]+[\W\d_]*[l1|]+[\W\d_]*[o0]+[\W\d_]*p+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*[i1!|]+[\W\d_]*[eE3]+[\W\d_]*\b # saloperie
-(?i)\b[sS$5]+[\W\d_]*[a@]+[\W\d_]*[l1|]+[\W\d_]*[o0]+[\W\d_]*p+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*[i1!|]+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # saloperies
-(?i)\b[sS$5]+[\W\d_]*[a@]+[\W\d_]*[l1|]+[\W\d_]*[o0]+[\W\d_]*p+[\W\d_]*[a@]+[\W\d_]*r+[\W\d_]*[dD]+[\W\d_]*\b # salopard
-(?i)\b[sS$5]+[\W\d_]*[a@]+[\W\d_]*[l1|]+[\W\d_]*[o0]+[\W\d_]*p+[\W\d_]*[a@]+[\W\d_]*r+[\W\d_]*[dD]+[\W\d_]*[sS$5]+[\W\d_]*\b # salopards
-(?i)\b[sS$5]+[\W\d_]*[a@]+[\W\d_]*[l1|]+[\W\d_]*[o0]+[\W\d_]*p+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*[i1!|]+[\W\d_]*[eE3]+[\W\d_]*\b # saloperie
-(?i)\b[sS$5]+[\W\d_]*[a@]+[\W\d_]*[l1|]+[\W\d_]*[o0]+[\W\d_]*p+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*[i1!|]+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # saloperies
-(?i)\b[t7+]+[\W\d_]*[a@]+[\W\d_]*r+[\W\d_]*[l1|]+[\W\d_]*[o0]+[\W\d_]*u+[\W\d_]*[z2]+[\W\d_]*[eE3]+[\W\d_]*\b # tarlouze
-(?i)\b[t7+]+[\W\d_]*[a@]+[\W\d_]*r+[\W\d_]*[l1|]+[\W\d_]*[o0]+[\W\d_]*u+[\W\d_]*[z2]+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # tarlouzes
-(?i)\b[t7+]+[\W\d_]*Ã+[\W\d_]*ª+[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*[cC(]+[\W\d_]*[o0]+[\W\d_]*n+[\W\d_]*\b # tÃªte de con
-(?i)\b[t7+]+[\W\d_]*[eE3]+[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*[cC(]+[\W\d_]*[o0]+[\W\d_]*n+[\W\d_]*\b # tete de con
-(?i)\b[t7+]+[\W\d_]*Ã+[\W\d_]*ª+[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\ +[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*[cC(]+[\W\d_]*[o0]+[\W\d_]*n+[\W\d_]*\b # tÃªtes de con
-(?i)\b[t7+]+[\W\d_]*[eE3]+[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\ +[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*[cC(]+[\W\d_]*[o0]+[\W\d_]*n+[\W\d_]*\b # tetes de con
-(?i)\b[t7+]+[\W\d_]*Ã+[\W\d_]*ª+[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*[cC(]+[\W\d_]*[o0]+[\W\d_]*n+[\W\d_]*n+[\W\d_]*[a@]+[\W\d_]*r+[\W\d_]*[dD]+[\W\d_]*\b # tÃªte de connard
-(?i)\b[t7+]+[\W\d_]*[eE3]+[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*[cC(]+[\W\d_]*[o0]+[\W\d_]*n+[\W\d_]*n+[\W\d_]*[a@]+[\W\d_]*r+[\W\d_]*[dD]+[\W\d_]*\b # tete de connard
-(?i)\b[t7+]+[\W\d_]*Ã+[\W\d_]*ª+[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*n+[\W\d_]*[o0]+[\W\d_]*[eE3]+[\W\d_]*u+[\W\d_]*[dD]+[\W\d_]*\b # tÃªte de noeud
-(?i)\b[t7+]+[\W\d_]*[eE3]+[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*n+[\W\d_]*[o0]+[\W\d_]*[eE3]+[\W\d_]*u+[\W\d_]*[dD]+[\W\d_]*\b # tete de noeud
-(?i)\b[t7+]+[\W\d_]*Ã+[\W\d_]*ª+[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*n+[\W\d_]*Å+[\W\d_]*“+[\W\d_]*u+[\W\d_]*[dD]+[\W\d_]*\b # tÃªte de nÅ“ud
-(?i)\b[t7+]+[\W\d_]*[eE3]+[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*n+[\W\d_]*Å+[\W\d_]*“+[\W\d_]*u+[\W\d_]*[dD]+[\W\d_]*\b # tete de nÅ“ud
-(?i)\b[t7+]+[\W\d_]*Ã+[\W\d_]*ª+[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\ +[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*n+[\W\d_]*[o0]+[\W\d_]*[eE3]+[\W\d_]*u+[\W\d_]*[dD]+[\W\d_]*\b # tÃªtes de noeud
-(?i)\b[t7+]+[\W\d_]*[eE3]+[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\ +[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*n+[\W\d_]*[o0]+[\W\d_]*[eE3]+[\W\d_]*u+[\W\d_]*[dD]+[\W\d_]*\b # tetes de noeud
-(?i)\b[t7+]+[\W\d_]*Ã+[\W\d_]*ª+[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\ +[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*n+[\W\d_]*Å+[\W\d_]*“+[\W\d_]*u+[\W\d_]*[dD]+[\W\d_]*\b # tÃªtes de nÅ“ud
-(?i)\b[t7+]+[\W\d_]*[eE3]+[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\ +[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*n+[\W\d_]*Å+[\W\d_]*“+[\W\d_]*u+[\W\d_]*[dD]+[\W\d_]*\b # tetes de nÅ“ud
-(?i)\b[t7+]+[\W\d_]*r+[\W\d_]*[o0]+[\W\d_]*u+[\W\d_]*\ +[\W\d_]*[dD]+[\W\d_]*u+[\W\d_]*\ +[\W\d_]*[cC(]+[\W\d_]*u+[\W\d_]*[l1|]+[\W\d_]*\b # trou du cul
-(?i)\b[t7+]+[\W\d_]*r+[\W\d_]*[o0]+[\W\d_]*u+[\W\d_]*[dD]+[\W\d_]*u+[\W\d_]*[cC(]+[\W\d_]*\b # trouduc
-(?i)\b[t7+]+[\W\d_]*r+[\W\d_]*[o0]+[\W\d_]*u+[\W\d_]*[sS$5]+[\W\d_]*\ +[\W\d_]*[dD]+[\W\d_]*u+[\W\d_]*\ +[\W\d_]*[cC(]+[\W\d_]*u+[\W\d_]*[l1|]+[\W\d_]*\b # trous du cul
-(?i)\b[t7+]+[\W\d_]*r+[\W\d_]*[o0]+[\W\d_]*u+[\W\d_]*\ +[\W\d_]*[dD]+[\W\d_]*'+[\W\d_]*[cC(]+[\W\d_]*u+[\W\d_]*[l1|]+[\W\d_]*\b # trou d'cul
-(?i)\b[t7+]+[\W\d_]*r+[\W\d_]*[o0]+[\W\d_]*u+[\W\d_]*[sS$5]+[\W\d_]*\ +[\W\d_]*[dD]+[\W\d_]*'+[\W\d_]*[cC(]+[\W\d_]*u+[\W\d_]*[l1|]+[\W\d_]*\b # trous d'cul
-(?i)\bv+[\W\d_]*[a@]+[\W\d_]*\ +[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*[fF]+[\W\d_]*[a@]+[\W\d_]*[i1!|]+[\W\d_]*r+[\W\d_]*[eE3]+[\W\d_]*\b # va te faire
-(?i)\bv+[\W\d_]*[a@]+[\W\d_]*\ +[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*[fF]+[\W\d_]*[a@]+[\W\d_]*[i1!|]+[\W\d_]*r+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*[fF]+[\W\d_]*[o0]+[\W\d_]*u+[\W\d_]*[t7+]+[\W\d_]*r+[\W\d_]*[eE3]+[\W\d_]*\b # va te faire foutre
-(?i)\bv+[\W\d_]*[a@]+[\W\d_]*\ +[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*[fF]+[\W\d_]*[a@]+[\W\d_]*[i1!|]+[\W\d_]*r+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*v+[\W\d_]*[o0]+[\W\d_]*[i1!|]+[\W\d_]*r+[\W\d_]*\b # va te faire voir
-(?i)\bv+[\W\d_]*[a@]+[\W\d_]*\ +[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*[fF]+[\W\d_]*[a@]+[\W\d_]*[i1!|]+[\W\d_]*r+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*[eE3]+[\W\d_]*n+[\W\d_]*[cC(]+[\W\d_]*u+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*\b # va te faire enculer
-(?i)\bv+[\W\d_]*[a@]+[\W\d_]*\ +[\W\d_]*[cC(]+[\W\d_]*[hH#]+[\W\d_]*[i1!|]+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*\b # va chier
-(?i)\b[cC(]+[\W\d_]*[a@]+[\W\d_]*[sS$5]+[\W\d_]*[sS$5]+[\W\d_]*[eE3]+[\W\d_]*\-+[\W\d_]*[t7+]+[\W\d_]*[o0]+[\W\d_]*[i1!|]+[\W\d_]*\b # casse-toi
-(?i)\b[cC(]+[\W\d_]*[a@]+[\W\d_]*[sS$5]+[\W\d_]*[sS$5]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*[t7+]+[\W\d_]*[o0]+[\W\d_]*[i1!|]+[\W\d_]*\b # casse toi
-(?i)\b[cC(]+[\W\d_]*[a@]+[\W\d_]*[sS$5]+[\W\d_]*[sS$5]+[\W\d_]*[t7+]+[\W\d_]*[o0]+[\W\d_]*[a@]+[\W\d_]*\b # casstoa
-(?i)\b[cC(]+[\W\d_]*[a@]+[\W\d_]*[sS$5]+[\W\d_]*[sS$5]+[\W\d_]*\-+[\W\d_]*[t7+]+[\W\d_]*[o0]+[\W\d_]*[i1!|]+[\W\d_]*\b # cass-toi
-(?i)\b[cC(]+[\W\d_]*[a@]+[\W\d_]*[sS$5]+[\W\d_]*[sS$5]+[\W\d_]*[eE3]+[\W\d_]*\-+[\W\d_]*[cC(]+[\W\d_]*[o0]+[\W\d_]*u+[\W\d_]*[i1!|]+[\W\d_]*[l1|]+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # casse-couilles
-(?i)\b[cC(]+[\W\d_]*[a@]+[\W\d_]*[sS$5]+[\W\d_]*[sS$5]+[\W\d_]*[eE3]+[\W\d_]*\-+[\W\d_]*[cC(]+[\W\d_]*[o0]+[\W\d_]*u+[\W\d_]*[i1!|]+[\W\d_]*[l1|]+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*\b # casse-couille
-(?i)\b[cC(]+[\W\d_]*[a@]+[\W\d_]*[sS$5]+[\W\d_]*[sS$5]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*[cC(]+[\W\d_]*[o0]+[\W\d_]*u+[\W\d_]*[i1!|]+[\W\d_]*[l1|]+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # casse couilles
-(?i)\b[cC(]+[\W\d_]*[a@]+[\W\d_]*[sS$5]+[\W\d_]*[sS$5]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*[cC(]+[\W\d_]*[o0]+[\W\d_]*u+[\W\d_]*[i1!|]+[\W\d_]*[l1|]+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*\b # casse couille
-(?i)\b[fF]+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*m+[\W\d_]*[eE3]+[\W\d_]*\-+[\W\d_]*[l1|]+[\W\d_]*[a@]+[\W\d_]*\b # ferme-la
+(?i)\b[eE3]+[\W\d_]*n+[\W\d_]*[fF]+[\W\d_]*[o0]+[\W\d_]*[i1!|]+[\W\d_]*r+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*[sS$5]+[\W\d_]*\b # enfoirÃ©s
 (?i)\b[fF]+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*m+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*[t7+]+[\W\d_]*[a@]+[\W\d_]*\ +[\W\d_]*[gG6]+[\W\d_]*u+[\W\d_]*[eE3]+[\W\d_]*u+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*\b # ferme ta gueule
 (?i)\b[fF]+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*m+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*[t7+]+[\W\d_]*[a@]+[\W\d_]*\ +[\W\d_]*p+[\W\d_]*u+[\W\d_]*[t7+]+[\W\d_]*[a@]+[\W\d_]*[i1!|]+[\W\d_]*n+[\W\d_]*\ +[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*[gG6]+[\W\d_]*u+[\W\d_]*[eE3]+[\W\d_]*u+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*\b # ferme ta putain de gueule
 (?i)\b[fF]+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*m+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*[t7+]+[\W\d_]*[a@]+[\W\d_]*\ +[\W\d_]*p+[\W\d_]*u+[\W\d_]*[t7+]+[\W\d_]*[i1!|]+[\W\d_]*n+[\W\d_]*\ +[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*[gG6]+[\W\d_]*u+[\W\d_]*[eE3]+[\W\d_]*u+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*\b # ferme ta putin de gueule
-(?i)\b[t7+]+[\W\d_]*[gG6]+[\W\d_]*\b # tg
-(?i)\b[t7+]+[\W\d_]*[a@]+[\W\d_]*\ +[\W\d_]*[gG6]+[\W\d_]*u+[\W\d_]*[eE3]+[\W\d_]*u+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*\b # ta gueule
-(?i)\b[t7+]+[\W\d_]*[a@]+[\W\d_]*[gG6]+[\W\d_]*[gG6]+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*\b # taggle
-(?i)\b[t7+]+[\W\d_]*[a@]+[\W\d_]*\ +[\W\d_]*m+[\W\d_]*Ã+[\W\d_]*¨+[\W\d_]*r+[\W\d_]*[eE3]+[\W\d_]*\b # ta mÃ¨re
-(?i)\b[t7+]+[\W\d_]*[a@]+[\W\d_]*\ +[\W\d_]*m+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*[eE3]+[\W\d_]*\b # ta mere
-(?i)\b[t7+]+[\W\d_]*[a@]+[\W\d_]*\ +[\W\d_]*m+[\W\d_]*\b # ta m
-(?i)\bn+[\W\d_]*[i1!|]+[\W\d_]*q+[\W\d_]*u+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*[t7+]+[\W\d_]*[a@]+[\W\d_]*\ +[\W\d_]*m+[\W\d_]*Ã+[\W\d_]*¨+[\W\d_]*r+[\W\d_]*[eE3]+[\W\d_]*\b # nique ta mÃ¨re
+(?i)\b[fF]+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*m+[\W\d_]*[eE3]+[\W\d_]*\-+[\W\d_]*[l1|]+[\W\d_]*[a@]+[\W\d_]*\b # ferme-la
+(?i)\b[fF]+[\W\d_]*[i1!|]+[\W\d_]*[l1|]+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*p+[\W\d_]*u+[\W\d_]*[t7+]+[\W\d_]*[a@]+[\W\d_]*[i1!|]+[\W\d_]*n+[\W\d_]*\b # fille de putain
+(?i)\b[fF]+[\W\d_]*[i1!|]+[\W\d_]*[l1|]+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*p+[\W\d_]*u+[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*\b # fille de pute
+(?i)\b[fF]+[\W\d_]*[i1!|]+[\W\d_]*[l1|]+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*p+[\W\d_]*u+[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # fille de putes
+(?i)\b[fF]+[\W\d_]*[i1!|]+[\W\d_]*[l1|]+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*p+[\W\d_]*\b # filledep
+(?i)\b[fF]+[\W\d_]*[i1!|]+[\W\d_]*[l1|]+[\W\d_]*[sS$5]+[\W\d_]*\ +[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*p+[\W\d_]*u+[\W\d_]*[t7+]+[\W\d_]*[a@]+[\W\d_]*[i1!|]+[\W\d_]*n+[\W\d_]*\b # fils de putain
+(?i)\b[fF]+[\W\d_]*[i1!|]+[\W\d_]*[l1|]+[\W\d_]*[sS$5]+[\W\d_]*\ +[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*p+[\W\d_]*u+[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*\b # fils de pute
+(?i)\b[fF]+[\W\d_]*[i1!|]+[\W\d_]*[l1|]+[\W\d_]*[sS$5]+[\W\d_]*\ +[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*p+[\W\d_]*u+[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # fils de putes
+(?i)\b[fF]+[\W\d_]*[i1!|]+[\W\d_]*[l1|]+[\W\d_]*[sS$5]+[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*p+[\W\d_]*\b # filsdep
+(?i)\b[fF]+[\W\d_]*[o0]+[\W\d_]*[l1|]+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*\b # folle
+(?i)\b[fF]+[\W\d_]*[o0]+[\W\d_]*u+[\W\d_]*[t7+]+[\W\d_]*r+[\W\d_]*[eE3]+[\W\d_]*\b # foutre
+(?i)\b[gG6]+[\W\d_]*[a@]+[\W\d_]*r+[\W\d_]*[cC(]+[\W\d_]*[eE3]+[\W\d_]*\b # garce
+(?i)\b[gG6]+[\W\d_]*[a@]+[\W\d_]*r+[\W\d_]*[cC(]+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*[i1!|]+[\W\d_]*[eE3]+[\W\d_]*\b # garcerie
+(?i)\b[gG6]+[\W\d_]*[a@]+[\W\d_]*r+[\W\d_]*[cC(]+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # garces
+(?i)\b[gG6]+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*[b8]+[\W\d_]*[eE3]+[\W\d_]*\b # gerbe
+(?i)\b[gG6]+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*[b8]+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*\b # gerber
+(?i)\b[gG6]+[\W\d_]*[o0]+[\W\d_]*u+[\W\d_]*[i1!|]+[\W\d_]*n+[\W\d_]*[a@]+[\W\d_]*[sS$5]+[\W\d_]*[sS$5]+[\W\d_]*[eE3]+[\W\d_]*\b # gouinasse
+(?i)\b[gG6]+[\W\d_]*[o0]+[\W\d_]*u+[\W\d_]*[i1!|]+[\W\d_]*n+[\W\d_]*[a@]+[\W\d_]*[sS$5]+[\W\d_]*[sS$5]+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # gouinasses
+(?i)\b[gG6]+[\W\d_]*[o0]+[\W\d_]*u+[\W\d_]*[i1!|]+[\W\d_]*n+[\W\d_]*[eE3]+[\W\d_]*\b # gouine
+(?i)\b[gG6]+[\W\d_]*[o0]+[\W\d_]*u+[\W\d_]*[i1!|]+[\W\d_]*n+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # gouines
+(?i)\b[gG6]+[\W\d_]*r+[\W\d_]*[a@]+[\W\d_]*n+[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*[fF]+[\W\d_]*[o0]+[\W\d_]*[l1|]+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*\b # grande folle
+(?i)\b[gG6]+[\W\d_]*r+[\W\d_]*[o0]+[\W\d_]*[gG6]+[\W\d_]*n+[\W\d_]*[i1!|]+[\W\d_]*[a@]+[\W\d_]*[sS$5]+[\W\d_]*[sS$5]+[\W\d_]*[eE3]+[\W\d_]*\b # grogniasse
+(?i)\b[gG6]+[\W\d_]*r+[\W\d_]*[o0]+[\W\d_]*[sS$5]+[\W\d_]*\ +[\W\d_]*[cC(]+[\W\d_]*[o0]+[\W\d_]*n+[\W\d_]*\b # gros con
+(?i)\b[gG6]+[\W\d_]*r+[\W\d_]*[o0]+[\W\d_]*[sS$5]+[\W\d_]*\ +[\W\d_]*[cC(]+[\W\d_]*[o0]+[\W\d_]*n+[\W\d_]*n+[\W\d_]*[a@]+[\W\d_]*r+[\W\d_]*[dD]+[\W\d_]*\b # gros connard
+(?i)\b[gG6]+[\W\d_]*r+[\W\d_]*[o0]+[\W\d_]*[sS$5]+[\W\d_]*\ +[\W\d_]*[cC(]+[\W\d_]*[o0]+[\W\d_]*n+[\W\d_]*n+[\W\d_]*[a@]+[\W\d_]*r+[\W\d_]*[dD]+[\W\d_]*[sS$5]+[\W\d_]*\b # gros connards
+(?i)\b[gG6]+[\W\d_]*u+[\W\d_]*[eE3]+[\W\d_]*u+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*\b # gueule
+(?i)\b[i1!|]+[\W\d_]*[dD]+[\W\d_]*[i1!|]+[\W\d_]*[o0]+[\W\d_]*[t7+]+[\W\d_]*\b # idiot
+(?i)\b[i1!|]+[\W\d_]*[dD]+[\W\d_]*[i1!|]+[\W\d_]*[o0]+[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*\b # idiote
+(?i)\b[i1!|]+[\W\d_]*[dD]+[\W\d_]*[i1!|]+[\W\d_]*[o0]+[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # idiotes
+(?i)\b[i1!|]+[\W\d_]*[dD]+[\W\d_]*[i1!|]+[\W\d_]*[o0]+[\W\d_]*[t7+]+[\W\d_]*[i1!|]+[\W\d_]*[eE3]+[\W\d_]*\b # idiotie
+(?i)\b[i1!|]+[\W\d_]*[dD]+[\W\d_]*[i1!|]+[\W\d_]*[o0]+[\W\d_]*[t7+]+[\W\d_]*[i1!|]+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # idioties
+(?i)\b[i1!|]+[\W\d_]*[dD]+[\W\d_]*[i1!|]+[\W\d_]*[o0]+[\W\d_]*[t7+]+[\W\d_]*[sS$5]+[\W\d_]*\b # idiots
+(?i)\b[i1!|]+[\W\d_]*m+[\W\d_]*[b8]+[\W\d_]*[eE3]+[\W\d_]*[cC(]+[\W\d_]*[i1!|]+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*\b # imbecile
+(?i)\b[i1!|]+[\W\d_]*m+[\W\d_]*[b8]+[\W\d_]*[eE3]+[\W\d_]*[cC(]+[\W\d_]*[i1!|]+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # imbeciles
+(?i)\b[i1!|]+[\W\d_]*m+[\W\d_]*[b8]+[\W\d_]*[eE3]+[\W\d_]*[cC(]+[\W\d_]*[i1!|]+[\W\d_]*[l1|]+[\W\d_]*[l1|]+[\W\d_]*[i1!|]+[\W\d_]*[t7+]+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*\b # imbecillitÃ©
+(?i)\b[i1!|]+[\W\d_]*m+[\W\d_]*[b8]+[\W\d_]*[eE3]+[\W\d_]*[cC(]+[\W\d_]*[i1!|]+[\W\d_]*[l1|]+[\W\d_]*[l1|]+[\W\d_]*[i1!|]+[\W\d_]*[t7+]+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*[sS$5]+[\W\d_]*\b # imbecillitÃ©s
+(?i)\b[i1!|]+[\W\d_]*m+[\W\d_]*[b8]+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*[cC(]+[\W\d_]*[i1!|]+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*\b # imbÃ©cile
+(?i)\b[i1!|]+[\W\d_]*m+[\W\d_]*[b8]+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*[cC(]+[\W\d_]*[i1!|]+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # imbÃ©ciles
+(?i)\b[i1!|]+[\W\d_]*m+[\W\d_]*[b8]+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*[cC(]+[\W\d_]*[i1!|]+[\W\d_]*[l1|]+[\W\d_]*[l1|]+[\W\d_]*[i1!|]+[\W\d_]*[t7+]+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*\b # imbÃ©cillitÃ©
+(?i)\b[i1!|]+[\W\d_]*m+[\W\d_]*[b8]+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*[cC(]+[\W\d_]*[i1!|]+[\W\d_]*[l1|]+[\W\d_]*[l1|]+[\W\d_]*[i1!|]+[\W\d_]*[t7+]+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*[sS$5]+[\W\d_]*\b # imbÃ©cillitÃ©s
+(?i)\bj+[\W\d_]*[o0]+[\W\d_]*u+[\W\d_]*[i1!|]+[\W\d_]*r+[\W\d_]*\b # jouir
+(?i)\b[l1|]+[\W\d_]*[a@]+[\W\d_]*\ +[\W\d_]*p+[\W\d_]*u+[\W\d_]*[t7+]+[\W\d_]*[a@]+[\W\d_]*[i1!|]+[\W\d_]*n+[\W\d_]*\ +[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*[t7+]+[\W\d_]*[a@]+[\W\d_]*\ +[\W\d_]*m+[\W\d_]*Ã+[\W\d_]*¨+[\W\d_]*r+[\W\d_]*[eE3]+[\W\d_]*\b # la putain de ta mÃ¨re
+(?i)\b[l1|]+[\W\d_]*[o0]+[\W\d_]*p+[\W\d_]*[eE3]+[\W\d_]*[t7+]+[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*\b # lopette
+(?i)\b[l1|]+[\W\d_]*[o0]+[\W\d_]*p+[\W\d_]*[eE3]+[\W\d_]*[t7+]+[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # lopettes
+(?i)\bM+[\W\d_]*[a@]+[\W\d_]*[l1|]+[\W\d_]*P+[\W\d_]*[t7+]+[\W\d_]*\b # MALPT
+(?i)\bm+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*\b # merde
+(?i)\bm+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*u+[\W\d_]*[sS$5]+[\W\d_]*[eE3]+[\W\d_]*\b # merdeuse
+(?i)\bm+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*u+[\W\d_]*[sS$5]+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # merdeuses
+(?i)\bm+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*u+[\W\d_]*x+[\W\d_]*\b # merdeux
+(?i)\bm+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*[dD]+[\W\d_]*[i1!|]+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*\b # merdier
+(?i)\bm+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*[dD]+[\W\d_]*[i1!|]+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*[sS$5]+[\W\d_]*\b # merdiers
+(?i)\bm+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*[dD]+[\W\d_]*[i1!|]+[\W\d_]*q+[\W\d_]*u+[\W\d_]*[eE3]+[\W\d_]*\b # merdique
+(?i)\bm+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*[dD]+[\W\d_]*[i1!|]+[\W\d_]*q+[\W\d_]*u+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # merdiques
+(?i)\bm+[\W\d_]*[eE3]+[\W\d_]*u+[\W\d_]*[fF]+[\W\d_]*\b # meuf
+(?i)\bm+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*n+[\W\d_]*[a@]+[\W\d_]*[gG6]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*Ã+[\W\d_]* +[\W\d_]*\ +[\W\d_]*[t7+]+[\W\d_]*r+[\W\d_]*[o0]+[\W\d_]*[i1!|]+[\W\d_]*[sS$5]+[\W\d_]*\b # mÃ©nage Ã  trois
+(?i)\bn+[\W\d_]*[a@]+[\W\d_]*[z2]+[\W\d_]*[eE3]+[\W\d_]*\b # naze
+(?i)\bn+[\W\d_]*[a@]+[\W\d_]*[z2]+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # nazes
+(?i)\bn+[\W\d_]*[eE3]+[\W\d_]*[gG6]+[\W\d_]*r+[\W\d_]*[o0]+[\W\d_]*\b # negro
 (?i)\bn+[\W\d_]*[i1!|]+[\W\d_]*q+[\W\d_]*u+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*[t7+]+[\W\d_]*[a@]+[\W\d_]*\ +[\W\d_]*m+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*[eE3]+[\W\d_]*\b # nique ta mere
-(?i)\bn+[\W\d_]*[i1!|]+[\W\d_]*q+[\W\d_]*u+[\W\d_]*[eE3]+[\W\d_]*[t7+]+[\W\d_]*[a@]+[\W\d_]*m+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*\b # niquetamer
+(?i)\bn+[\W\d_]*[i1!|]+[\W\d_]*q+[\W\d_]*u+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*[t7+]+[\W\d_]*[a@]+[\W\d_]*\ +[\W\d_]*m+[\W\d_]*Ã+[\W\d_]*¨+[\W\d_]*r+[\W\d_]*[eE3]+[\W\d_]*\b # nique ta mÃ¨re
 (?i)\bn+[\W\d_]*[i1!|]+[\W\d_]*q+[\W\d_]*u+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*[t7+]+[\W\d_]*[a@]+[\W\d_]*\ +[\W\d_]*r+[\W\d_]*[a@]+[\W\d_]*[cC(]+[\W\d_]*[eE3]+[\W\d_]*\b # nique ta race
 (?i)\bn+[\W\d_]*[i1!|]+[\W\d_]*q+[\W\d_]*u+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*[t7+]+[\W\d_]*[a@]+[\W\d_]*r+[\W\d_]*[a@]+[\W\d_]*[cC(]+[\W\d_]*[eE3]+[\W\d_]*\b # nique tarace
+(?i)\bn+[\W\d_]*[i1!|]+[\W\d_]*q+[\W\d_]*u+[\W\d_]*[eE3]+[\W\d_]*[t7+]+[\W\d_]*[a@]+[\W\d_]*m+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*\b # niquetamer
 (?i)\bn+[\W\d_]*[i1!|]+[\W\d_]*q+[\W\d_]*u+[\W\d_]*[eE3]+[\W\d_]*[t7+]+[\W\d_]*[a@]+[\W\d_]*r+[\W\d_]*[a@]+[\W\d_]*[cC(]+[\W\d_]*[eE3]+[\W\d_]*\b # niquetarace
-(?i)\b[sS$5]+[\W\d_]*[a@]+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*[t7+]+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*\b # saletÃ©
-(?i)\b[sS$5]+[\W\d_]*[a@]+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*\b # salete
-(?i)\b[sS$5]+[\W\d_]*[a@]+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*[t7+]+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*[sS$5]+[\W\d_]*\b # saletÃ©s
-(?i)\b[sS$5]+[\W\d_]*[a@]+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # saletes
-(?i)\b[sS$5]+[\W\d_]*[a@]+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*[t7+]+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*[eE3]+[\W\d_]*\b # saletÃ©e
-(?i)\b[sS$5]+[\W\d_]*[a@]+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*[eE3]+[\W\d_]*\b # saletee
+(?i)\bn+[\W\d_]*Ã+[\W\d_]*¨+[\W\d_]*[gG6]+[\W\d_]*r+[\W\d_]*[eE3]+[\W\d_]*\b # nÃ¨gre
+(?i)\bp+[\W\d_]*[a@]+[\W\d_]*[l1|]+[\W\d_]*u+[\W\d_]*[cC(]+[\W\d_]*[hH#]+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*\b # palucher
+(?i)\bp+[\W\d_]*[eE3]+[\W\d_]*[dD]+[\W\d_]*[a@]+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*\b # pedale
+(?i)\bp+[\W\d_]*[eE3]+[\W\d_]*[dD]+[\W\d_]*[a@]+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # pedales
+(?i)\bp+[\W\d_]*[eE3]+[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*\b # pede
+(?i)\bp+[\W\d_]*[eE3]+[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # pedes
+(?i)\bp+[\W\d_]*[i1!|]+[\W\d_]*p+[\W\d_]*[i1!|]+[\W\d_]*\b # pipi
+(?i)\bp+[\W\d_]*[i1!|]+[\W\d_]*[sS$5]+[\W\d_]*[sS$5]+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*\b # pisser
+(?i)\bp+[\W\d_]*[o0]+[\W\d_]*u+[\W\d_]*[fF]+[\W\d_]*[fF]+[\W\d_]*[i1!|]+[\W\d_]*[a@]+[\W\d_]*[sS$5]+[\W\d_]*[sS$5]+[\W\d_]*[eE3]+[\W\d_]*\b # pouffiasse
+(?i)\bp+[\W\d_]*[o0]+[\W\d_]*u+[\W\d_]*[fF]+[\W\d_]*[fF]+[\W\d_]*[i1!|]+[\W\d_]*[a@]+[\W\d_]*[sS$5]+[\W\d_]*[sS$5]+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*[i1!|]+[\W\d_]*[eE3]+[\W\d_]*\b # pouffiasserie
+(?i)\bp+[\W\d_]*[o0]+[\W\d_]*u+[\W\d_]*[fF]+[\W\d_]*[fF]+[\W\d_]*[i1!|]+[\W\d_]*[a@]+[\W\d_]*[sS$5]+[\W\d_]*[sS$5]+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*[i1!|]+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # pouffiasseries
+(?i)\bp+[\W\d_]*[o0]+[\W\d_]*u+[\W\d_]*[fF]+[\W\d_]*[fF]+[\W\d_]*[i1!|]+[\W\d_]*[a@]+[\W\d_]*[sS$5]+[\W\d_]*[sS$5]+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # pouffiasses
+(?i)\bp+[\W\d_]*[o0]+[\W\d_]*u+[\W\d_]*[sS$5]+[\W\d_]*[sS$5]+[\W\d_]*[eE3]+[\W\d_]*\-+[\W\d_]*[cC(]+[\W\d_]*r+[\W\d_]*[o0]+[\W\d_]*[t7+]+[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*\b # pousse-crotte
+(?i)\bp+[\W\d_]*u+[\W\d_]*[t7+]+[\W\d_]*[a@]+[\W\d_]*[i1!|]+[\W\d_]*n+[\W\d_]*\b # putain
+(?i)\bp+[\W\d_]*u+[\W\d_]*[t7+]+[\W\d_]*[a@]+[\W\d_]*[i1!|]+[\W\d_]*n+[\W\d_]*[sS$5]+[\W\d_]*\b # putains
+(?i)\bp+[\W\d_]*u+[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*\b # pute
+(?i)\bp+[\W\d_]*u+[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # putes
+(?i)\bp+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*[dD]+[\W\d_]*[a@]+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*\b # pÃ©dale
+(?i)\bp+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*[dD]+[\W\d_]*[a@]+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # pÃ©dales
+(?i)\bp+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*[dD]+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*\b # pÃ©dÃ©
+(?i)\bp+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*[dD]+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*[sS$5]+[\W\d_]*\b # pÃ©dÃ©s
+(?i)\bp+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*\b # pÃ©ter
 (?i)\br+[\W\d_]*[a@]+[\W\d_]*[cC(]+[\W\d_]*[a@]+[\W\d_]*[i1!|]+[\W\d_]*[l1|]+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*\b # racaille
 (?i)\br+[\W\d_]*[a@]+[\W\d_]*[cC(]+[\W\d_]*[a@]+[\W\d_]*[i1!|]+[\W\d_]*[l1|]+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # racailles
 (?i)\br+[\W\d_]*[a@]+[\W\d_]*[cC(]+[\W\d_]*[a@]+[\W\d_]*[i1!|]+[\W\d_]*[l1|]+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*u+[\W\d_]*r+[\W\d_]*\b # racailleur
 (?i)\br+[\W\d_]*[a@]+[\W\d_]*[cC(]+[\W\d_]*[a@]+[\W\d_]*[i1!|]+[\W\d_]*[l1|]+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*u+[\W\d_]*[sS$5]+[\W\d_]*[eE3]+[\W\d_]*\b # racailleuse
 (?i)\br+[\W\d_]*[a@]+[\W\d_]*[cC(]+[\W\d_]*[a@]+[\W\d_]*[i1!|]+[\W\d_]*[l1|]+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*u+[\W\d_]*[sS$5]+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # racailleuses
+(?i)\br+[\W\d_]*[a@]+[\W\d_]*m+[\W\d_]*[o0]+[\W\d_]*n+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*\b # ramoner
+(?i)\b[sS$5]+[\W\d_]*[a@]+[\W\d_]*[cC(]+[\W\d_]*\ +[\W\d_]*Ã+[\W\d_]* +[\W\d_]*\ +[\W\d_]*[fF]+[\W\d_]*[o0]+[\W\d_]*u+[\W\d_]*[t7+]+[\W\d_]*r+[\W\d_]*[eE3]+[\W\d_]*\b # sac Ã  foutre
+(?i)\b[sS$5]+[\W\d_]*[a@]+[\W\d_]*[cC(]+[\W\d_]*\ +[\W\d_]*Ã+[\W\d_]* +[\W\d_]*\ +[\W\d_]*m+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*\b # sac Ã  merde
+(?i)\b[sS$5]+[\W\d_]*[a@]+[\W\d_]*[l1|]+[\W\d_]*[a@]+[\W\d_]*u+[\W\d_]*[dD]+[\W\d_]*\b # salaud
+(?i)\b[sS$5]+[\W\d_]*[a@]+[\W\d_]*[l1|]+[\W\d_]*[a@]+[\W\d_]*u+[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*\b # salaude
+(?i)\b[sS$5]+[\W\d_]*[a@]+[\W\d_]*[l1|]+[\W\d_]*[a@]+[\W\d_]*u+[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*[i1!|]+[\W\d_]*[eE3]+[\W\d_]*\b # salauderie
+(?i)\b[sS$5]+[\W\d_]*[a@]+[\W\d_]*[l1|]+[\W\d_]*[a@]+[\W\d_]*u+[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # salaudes
+(?i)\b[sS$5]+[\W\d_]*[a@]+[\W\d_]*[l1|]+[\W\d_]*[a@]+[\W\d_]*u+[\W\d_]*[dD]+[\W\d_]*[sS$5]+[\W\d_]*\b # salauds
+(?i)\b[sS$5]+[\W\d_]*[a@]+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*\b # salete
+(?i)\b[sS$5]+[\W\d_]*[a@]+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*[eE3]+[\W\d_]*\b # saletee
+(?i)\b[sS$5]+[\W\d_]*[a@]+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # saletes
+(?i)\b[sS$5]+[\W\d_]*[a@]+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*[t7+]+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*\b # saletÃ©
+(?i)\b[sS$5]+[\W\d_]*[a@]+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*[t7+]+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*[eE3]+[\W\d_]*\b # saletÃ©e
+(?i)\b[sS$5]+[\W\d_]*[a@]+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*[t7+]+[\W\d_]*Ã+[\W\d_]*©+[\W\d_]*[sS$5]+[\W\d_]*\b # saletÃ©s
+(?i)\b[sS$5]+[\W\d_]*[a@]+[\W\d_]*[l1|]+[\W\d_]*[o0]+[\W\d_]*p+[\W\d_]*[a@]+[\W\d_]*r+[\W\d_]*[dD]+[\W\d_]*\b # salopard
+(?i)\b[sS$5]+[\W\d_]*[a@]+[\W\d_]*[l1|]+[\W\d_]*[o0]+[\W\d_]*p+[\W\d_]*[a@]+[\W\d_]*r+[\W\d_]*[dD]+[\W\d_]*[sS$5]+[\W\d_]*\b # salopards
+(?i)\b[sS$5]+[\W\d_]*[a@]+[\W\d_]*[l1|]+[\W\d_]*[o0]+[\W\d_]*p+[\W\d_]*[eE3]+[\W\d_]*\b # salope
+(?i)\b[sS$5]+[\W\d_]*[a@]+[\W\d_]*[l1|]+[\W\d_]*[o0]+[\W\d_]*p+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*[i1!|]+[\W\d_]*[eE3]+[\W\d_]*\b # saloperie
+(?i)\b[sS$5]+[\W\d_]*[a@]+[\W\d_]*[l1|]+[\W\d_]*[o0]+[\W\d_]*p+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*[i1!|]+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # saloperies
+(?i)\b[sS$5]+[\W\d_]*u+[\W\d_]*[cC(]+[\W\d_]*[eE3]+[\W\d_]*\b # suce
+(?i)\b[t7+]+[\W\d_]*[a@]+[\W\d_]*\ +[\W\d_]*[gG6]+[\W\d_]*u+[\W\d_]*[eE3]+[\W\d_]*u+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*\b # ta gueule
+(?i)\b[t7+]+[\W\d_]*[a@]+[\W\d_]*\ +[\W\d_]*m+[\W\d_]*\b # ta m
+(?i)\b[t7+]+[\W\d_]*[a@]+[\W\d_]*\ +[\W\d_]*m+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*[eE3]+[\W\d_]*\b # ta mere
+(?i)\b[t7+]+[\W\d_]*[a@]+[\W\d_]*\ +[\W\d_]*m+[\W\d_]*Ã+[\W\d_]*¨+[\W\d_]*r+[\W\d_]*[eE3]+[\W\d_]*\b # ta mÃ¨re
+(?i)\b[t7+]+[\W\d_]*[a@]+[\W\d_]*[gG6]+[\W\d_]*[gG6]+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*\b # taggle
+(?i)\b[t7+]+[\W\d_]*[a@]+[\W\d_]*n+[\W\d_]*[cC(]+[\W\d_]*[hH#]+[\W\d_]*[eE3]+[\W\d_]*\b # tanche
 (?i)\b[t7+]+[\W\d_]*[a@]+[\W\d_]*p+[\W\d_]*[eE3]+[\W\d_]*[t7+]+[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*\b # tapette
 (?i)\b[t7+]+[\W\d_]*[a@]+[\W\d_]*p+[\W\d_]*[eE3]+[\W\d_]*[t7+]+[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # tapettes
+(?i)\b[t7+]+[\W\d_]*[a@]+[\W\d_]*r+[\W\d_]*[l1|]+[\W\d_]*[o0]+[\W\d_]*u+[\W\d_]*[z2]+[\W\d_]*[eE3]+[\W\d_]*\b # tarlouze
+(?i)\b[t7+]+[\W\d_]*[a@]+[\W\d_]*r+[\W\d_]*[l1|]+[\W\d_]*[o0]+[\W\d_]*u+[\W\d_]*[z2]+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # tarlouzes
+(?i)\b[t7+]+[\W\d_]*[eE3]+[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*[cC(]+[\W\d_]*[o0]+[\W\d_]*n+[\W\d_]*\b # tete de con
+(?i)\b[t7+]+[\W\d_]*[eE3]+[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*[cC(]+[\W\d_]*[o0]+[\W\d_]*n+[\W\d_]*n+[\W\d_]*[a@]+[\W\d_]*r+[\W\d_]*[dD]+[\W\d_]*\b # tete de connard
+(?i)\b[t7+]+[\W\d_]*[eE3]+[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*n+[\W\d_]*[o0]+[\W\d_]*[eE3]+[\W\d_]*\b # tete de noe
+(?i)\b[t7+]+[\W\d_]*[eE3]+[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*n+[\W\d_]*[o0]+[\W\d_]*[eE3]+[\W\d_]*u+[\W\d_]*[dD]+[\W\d_]*\b # tete de noeud
+(?i)\b[t7+]+[\W\d_]*[eE3]+[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*n+[\W\d_]*Å+[\W\d_]*“+[\W\d_]*u+[\W\d_]*[dD]+[\W\d_]*\b # tete de nÅ“ud
+(?i)\b[t7+]+[\W\d_]*[eE3]+[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\ +[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*[cC(]+[\W\d_]*[o0]+[\W\d_]*n+[\W\d_]*\b # tetes de con
+(?i)\b[t7+]+[\W\d_]*[eE3]+[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\ +[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*n+[\W\d_]*[o0]+[\W\d_]*[eE3]+[\W\d_]*u+[\W\d_]*[dD]+[\W\d_]*\b # tetes de noeud
+(?i)\b[t7+]+[\W\d_]*[eE3]+[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\ +[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*n+[\W\d_]*Å+[\W\d_]*“+[\W\d_]*u+[\W\d_]*[dD]+[\W\d_]*\b # tetes de nÅ“ud
+(?i)\b[t7+]+[\W\d_]*[eE3]+[\W\d_]*u+[\W\d_]*[cC(]+[\W\d_]*[hH#]+[\W\d_]*\b # teuch
+(?i)\b[t7+]+[\W\d_]*[gG6]+[\W\d_]*\b # tg
+(?i)\b[t7+]+[\W\d_]*r+[\W\d_]*[i1!|]+[\W\d_]*n+[\W\d_]*[gG6]+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*\b # tringler
+(?i)\b[t7+]+[\W\d_]*r+[\W\d_]*[i1!|]+[\W\d_]*q+[\W\d_]*u+[\W\d_]*[eE3]+[\W\d_]*\b # trique
+(?i)\b[t7+]+[\W\d_]*r+[\W\d_]*[o0]+[\W\d_]*n+[\W\d_]*[cC(]+[\W\d_]*[hH#]+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*\b # troncher
+(?i)\b[t7+]+[\W\d_]*r+[\W\d_]*[o0]+[\W\d_]*u+[\W\d_]*\ +[\W\d_]*[dD]+[\W\d_]*'+[\W\d_]*[cC(]+[\W\d_]*u+[\W\d_]*[l1|]+[\W\d_]*\b # trou d'cul
+(?i)\b[t7+]+[\W\d_]*r+[\W\d_]*[o0]+[\W\d_]*u+[\W\d_]*\ +[\W\d_]*[dD]+[\W\d_]*u+[\W\d_]*\ +[\W\d_]*[cC(]+[\W\d_]*u+[\W\d_]*[l1|]+[\W\d_]*\b # trou du cul
+(?i)\b[t7+]+[\W\d_]*r+[\W\d_]*[o0]+[\W\d_]*u+[\W\d_]*[dD]+[\W\d_]*[cC(]+[\W\d_]*u+[\W\d_]*[l1|]+[\W\d_]*\b # troudcul
 (?i)\b[t7+]+[\W\d_]*r+[\W\d_]*[o0]+[\W\d_]*u+[\W\d_]*[dD]+[\W\d_]*u+[\W\d_]*[cC(]+[\W\d_]*\b # trouduc
 (?i)\b[t7+]+[\W\d_]*r+[\W\d_]*[o0]+[\W\d_]*u+[\W\d_]*[dD]+[\W\d_]*u+[\W\d_]*[cC(]+[\W\d_]*u+[\W\d_]*[l1|]+[\W\d_]*\b # trouducul
-(?i)\b[t7+]+[\W\d_]*r+[\W\d_]*[o0]+[\W\d_]*u+[\W\d_]*[dD]+[\W\d_]*[cC(]+[\W\d_]*u+[\W\d_]*[l1|]+[\W\d_]*\b # troudcul
-(?i)\b[t7+]+[\W\d_]*Ã+[\W\d_]*ª+[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*n+[\W\d_]*Å+[\W\d_]*“+[\W\d_]*u+[\W\d_]*[dD]+[\W\d_]*\b # tÃªte de nÅ“ud
-(?i)\b[t7+]+[\W\d_]*[eE3]+[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*n+[\W\d_]*[o0]+[\W\d_]*[eE3]+[\W\d_]*u+[\W\d_]*[dD]+[\W\d_]*\b # tete de noeud
-(?i)\b[t7+]+[\W\d_]*[eE3]+[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*n+[\W\d_]*[o0]+[\W\d_]*[eE3]+[\W\d_]*\b # tete de noe
+(?i)\b[t7+]+[\W\d_]*r+[\W\d_]*[o0]+[\W\d_]*u+[\W\d_]*[sS$5]+[\W\d_]*\ +[\W\d_]*[dD]+[\W\d_]*'+[\W\d_]*[cC(]+[\W\d_]*u+[\W\d_]*[l1|]+[\W\d_]*\b # trous d'cul
+(?i)\b[t7+]+[\W\d_]*r+[\W\d_]*[o0]+[\W\d_]*u+[\W\d_]*[sS$5]+[\W\d_]*\ +[\W\d_]*[dD]+[\W\d_]*u+[\W\d_]*\ +[\W\d_]*[cC(]+[\W\d_]*u+[\W\d_]*[l1|]+[\W\d_]*\b # trous du cul
+(?i)\b[t7+]+[\W\d_]*u+[\W\d_]*r+[\W\d_]*[l1|]+[\W\d_]*u+[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*\b # turlute
+(?i)\b[t7+]+[\W\d_]*Ã+[\W\d_]*ª+[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*[cC(]+[\W\d_]*[o0]+[\W\d_]*n+[\W\d_]*\b # tÃªte de con
+(?i)\b[t7+]+[\W\d_]*Ã+[\W\d_]*ª+[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*[cC(]+[\W\d_]*[o0]+[\W\d_]*n+[\W\d_]*n+[\W\d_]*[a@]+[\W\d_]*r+[\W\d_]*[dD]+[\W\d_]*\b # tÃªte de connard
 (?i)\b[t7+]+[\W\d_]*Ã+[\W\d_]*ª+[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*n+[\W\d_]*[o0]+[\W\d_]*[eE3]+[\W\d_]*\b # tÃªte de noe
-(?i)\b[cC(]+[\W\d_]*[o0]+[\W\d_]*n+[\W\d_]*n+[\W\d_]*[a@]+[\W\d_]*r+[\W\d_]*[dD]+[\W\d_]*\ +[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*m+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*\b # connard de merde
-(?i)\b[cC(]+[\W\d_]*[o0]+[\W\d_]*n+[\W\d_]*n+[\W\d_]*[a@]+[\W\d_]*r+[\W\d_]*[dD]+[\W\d_]*\ +[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*m+[\W\d_]*\b # connard de m
-(?i)\b[cC(]+[\W\d_]*[o0]+[\W\d_]*n+[\W\d_]*n+[\W\d_]*[a@]+[\W\d_]*r+[\W\d_]*[dD]+[\W\d_]*[sS$5]+[\W\d_]*\ +[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*m+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*\b # connards de merde
-(?i)\b[cC(]+[\W\d_]*[o0]+[\W\d_]*n+[\W\d_]*n+[\W\d_]*[a@]+[\W\d_]*r+[\W\d_]*[dD]+[\W\d_]*[sS$5]+[\W\d_]*\ +[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*m+[\W\d_]*\b # connards de m
-(?i)\b[cC(]+[\W\d_]*[o0]+[\W\d_]*n+[\W\d_]*n+[\W\d_]*[a@]+[\W\d_]*r+[\W\d_]*[dD]+[\W\d_]*\b # connard
-(?i)\b[cC(]+[\W\d_]*[o0]+[\W\d_]*n+[\W\d_]*n+[\W\d_]*[a@]+[\W\d_]*r+[\W\d_]*\b # connar
-(?i)\b[cC(]+[\W\d_]*[o0]+[\W\d_]*n+[\W\d_]*n+[\W\d_]*[a@]+[\W\d_]*r+[\W\d_]*r+[\W\d_]*[eE3]+[\W\d_]*\b # connarre
-(?i)\b[cC(]+[\W\d_]*[o0]+[\W\d_]*n+[\W\d_]*n+[\W\d_]*[a@]+[\W\d_]*r+[\W\d_]*r+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # connarres
-(?i)\b[cC(]+[\W\d_]*[o0]+[\W\d_]*n+[\W\d_]*n+[\W\d_]*[a@]+[\W\d_]*r+[\W\d_]*\b # connar
-(?i)\b[cC(]+[\W\d_]*[o0]+[\W\d_]*n+[\W\d_]*n+[\W\d_]*[a@]+[\W\d_]*r+[\W\d_]*[eE3]+[\W\d_]*\b # connare
-(?i)\b[cC(]+[\W\d_]*[o0]+[\W\d_]*n+[\W\d_]*n+[\W\d_]*[a@]+[\W\d_]*r+[\W\d_]*r+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\b # connarres
+(?i)\b[t7+]+[\W\d_]*Ã+[\W\d_]*ª+[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*n+[\W\d_]*[o0]+[\W\d_]*[eE3]+[\W\d_]*u+[\W\d_]*[dD]+[\W\d_]*\b # tÃªte de noeud
+(?i)\b[t7+]+[\W\d_]*Ã+[\W\d_]*ª+[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*n+[\W\d_]*Å+[\W\d_]*“+[\W\d_]*u+[\W\d_]*[dD]+[\W\d_]*\b # tÃªte de nÅ“ud
+(?i)\b[t7+]+[\W\d_]*Ã+[\W\d_]*ª+[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\ +[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*[cC(]+[\W\d_]*[o0]+[\W\d_]*n+[\W\d_]*\b # tÃªtes de con
+(?i)\b[t7+]+[\W\d_]*Ã+[\W\d_]*ª+[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\ +[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*n+[\W\d_]*[o0]+[\W\d_]*[eE3]+[\W\d_]*u+[\W\d_]*[dD]+[\W\d_]*\b # tÃªtes de noeud
+(?i)\b[t7+]+[\W\d_]*Ã+[\W\d_]*ª+[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*[sS$5]+[\W\d_]*\ +[\W\d_]*[dD]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*n+[\W\d_]*Å+[\W\d_]*“+[\W\d_]*u+[\W\d_]*[dD]+[\W\d_]*\b # tÃªtes de nÅ“ud
+(?i)\bv+[\W\d_]*[a@]+[\W\d_]*\ +[\W\d_]*[cC(]+[\W\d_]*[hH#]+[\W\d_]*[i1!|]+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*\b # va chier
+(?i)\bv+[\W\d_]*[a@]+[\W\d_]*\ +[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*[fF]+[\W\d_]*[a@]+[\W\d_]*[i1!|]+[\W\d_]*r+[\W\d_]*[eE3]+[\W\d_]*\b # va te faire
+(?i)\bv+[\W\d_]*[a@]+[\W\d_]*\ +[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*[fF]+[\W\d_]*[a@]+[\W\d_]*[i1!|]+[\W\d_]*r+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*[eE3]+[\W\d_]*n+[\W\d_]*[cC(]+[\W\d_]*u+[\W\d_]*[l1|]+[\W\d_]*[eE3]+[\W\d_]*r+[\W\d_]*\b # va te faire enculer
+(?i)\bv+[\W\d_]*[a@]+[\W\d_]*\ +[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*[fF]+[\W\d_]*[a@]+[\W\d_]*[i1!|]+[\W\d_]*r+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*[fF]+[\W\d_]*[o0]+[\W\d_]*u+[\W\d_]*[t7+]+[\W\d_]*r+[\W\d_]*[eE3]+[\W\d_]*\b # va te faire foutre
+(?i)\bv+[\W\d_]*[a@]+[\W\d_]*\ +[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*[fF]+[\W\d_]*[a@]+[\W\d_]*[i1!|]+[\W\d_]*r+[\W\d_]*[eE3]+[\W\d_]*\ +[\W\d_]*v+[\W\d_]*[o0]+[\W\d_]*[i1!|]+[\W\d_]*r+[\W\d_]*\b # va te faire voir
+(?i)\b[z2]+[\W\d_]*[i1!|]+[\W\d_]*[gG6]+[\W\d_]*[o0]+[\W\d_]*u+[\W\d_]*n+[\W\d_]*[eE3]+[\W\d_]*[t7+]+[\W\d_]*[t7+]+[\W\d_]*[eE3]+[\W\d_]*\b # zigounette
+(?i)\b[z2]+[\W\d_]*[i1!|]+[\W\d_]*[z2]+[\W\d_]*[i1!|]+[\W\d_]*\b # zizi
+(?i)\bÃ+[\W\d_]*©+[\W\d_]*[t7+]+[\W\d_]*r+[\W\d_]*[o0]+[\W\d_]*n+[\W\d_]*\b # Ã©tron
